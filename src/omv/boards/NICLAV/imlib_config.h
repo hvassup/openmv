@@ -121,9 +121,9 @@
 // #endif
 
 // Enable Tensor Flow
-#if !defined(CUBEAI)
-#define IMLIB_ENABLE_TF
-#endif
+// #if !defined(CUBEAI)
+// #define IMLIB_ENABLE_TF
+// #endif
 
 // Enable FAST (20+ KBs).
 #define IMLIB_ENABLE_FAST
