@@ -1,8 +1,8 @@
 #!/bin/bash
 source tools/ci.sh && ci_update_submodules
-# source tools/ci.sh && ci_install_arm_gcc
-rm -rf src/build
-rm -rf firmware/NICLAV
+source tools/ci.sh && ci_install_arm_gcc
+# rm -rf src/build
+# rm -rf firmware/NICLAV
 # mkdir src/build
 source tools/ci.sh && ci_build_target NICLAV
 
