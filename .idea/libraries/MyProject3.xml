@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MyProject3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/micropython/lib/pico-sdk/lib/tinyusb/lib/CMSIS_5/CMSIS/DoxyGen/Build/example/MyProject.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

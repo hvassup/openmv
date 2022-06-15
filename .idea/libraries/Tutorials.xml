@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Tutorials">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/micropython/lib/tinyusb/lib/CMSIS_5/CMSIS/Pack/Tutorials/Pack_with_Device_Support.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/micropython/lib/tinyusb/lib/CMSIS_5/CMSIS/Pack/Tutorials/Pack_with_Software_Components.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/micropython/lib/tinyusb/lib/CMSIS_5/CMSIS/Pack/Tutorials/Pack_with_Board_Support.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
